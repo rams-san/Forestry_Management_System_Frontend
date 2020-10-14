@@ -1,0 +1,20 @@
+#tablePreview{
+    background-color: whitesmoke;
+    color: teal;
+    margin-left: 400px;
+    width: 700px;
+  
+}
+
+
+.fas{
+    color: green;
+}
+#back{
+    position: relative;
+    left: 46%;
+    right: 5%;
+    bottom: 5%;
+    top: 60%;
+    font-family: 'PT Serif';
+}

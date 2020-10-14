@@ -1,0 +1,28 @@
+.customer{
+    margin-left: 600px;
+    margin-top: 50px;
+    border: 1px solid  black;
+    width: 400px;
+    height: 500px;
+    float: none;
+    padding-top: 40px;
+    text-align: center;
+    font-family: 'PT Serif'; 
+    background-color: rgb(31, 31, 31);
+    color: rgb(202, 197, 197);
+}
+
+.border2{
+    margin-left: 550px;
+    margin-top: 10px;
+    border: unset;
+    width: 400px;
+    height: 600px;
+    float: none;
+    padding-top: 40px;
+    text-align: center;
+    font-family: 'PT Serif';
+    background-color:transparent;
+    color: black;
+}
+

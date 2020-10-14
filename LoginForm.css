@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+.border1{
+    border: none;
+    width: 400px;
+    height: 500px;
+    float: none;
+    margin-left: 550px;
+    padding-top: 40px;
+    text-align: center;
+    font-family: 'PT Serif';
+    background-color:transparent;
+    color: black;
+}
+
+#button1{
+    width: 300px;
+    height: 40px;
+    
+    }
+    
+#button2{
+    width: 300px;
+    height: 40px;
+    }
+
+    p{
+        color: black;
+    }

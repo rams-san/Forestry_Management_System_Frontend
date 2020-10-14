@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&family=Lobster&family=Nanum+Myeongjo:wght@800&family=Sansita+Swashed:wght@700&display=swap');
+.fixed-action-btn{
+    position: relative;
+    left: 23%;
+    right: 5%;
+    bottom: 5%;
+    top: 60%;
+    font-family: 'PT Serif';
+}
+
+.div1{
+    position: relative;
+    left: 80.5%;
+    right: 5%;
+    bottom: 5%;
+    top: 60%;
+    font-family: 'PT Serif';
+}
+
+#btn{
+    font-size:larger;
+    font-weight: bold;
+    color:Black;
+    background-color: transparent;
+}
+
+.dropdown-menu{
+    background-color: rgb(216, 214, 214);
+}
+
+.dropdown-item{
+    font-family: 'PT Serif';
+}
+
+.btn-group{
+    font-family: 'PT Serif';
+}

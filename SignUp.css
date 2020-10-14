@@ -1,0 +1,13 @@
+.border3{
+    border: none;
+    width: 400px;
+    height: 500px;
+    float: none;
+    margin-left: 550px;
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'PT Serif';
+    background-color:transparent;
+    color: black;
+}
+
